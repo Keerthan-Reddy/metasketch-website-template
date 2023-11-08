@@ -954,7 +954,8 @@ body {
 }
 .size{
   width: 100%;
-  text-align: center;
+  text-align: left;
+  position: relative;
   font-size: 3.5em;
   color: #4154f1;
 }
